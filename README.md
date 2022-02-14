@@ -7,6 +7,12 @@
 - I graduated from the Moscow Aviation Institute. Direction - "Information technology and applied mathematics". :mortar_board:
 - My Java expirience is one year and a half. :chart_with_upwards_trend:
 ---
+
+<ins><b>Core Technologies</b></ins>
+
+![текст](https://img.shields.io/badge/Java-%E2%89%A5%208-orange) ![текст](https://img.shields.io/badge/Spring-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Hibernate-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Maven-%E2%89%A5%203-red) ![текст](https://img.shields.io/badge/Git-%E2%89%A5%202-9cf) ![текст](https://img.shields.io/badge/PostgreSQL-%E2%89%A5%209-blue) 
+
+---
 ##### Lessons of:
 
  1. <b>*Java Core*</b>
