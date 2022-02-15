@@ -27,7 +27,6 @@
  2. <b>*Database*</b>
      * [*PostgreSQL, SQL*](https://github.com/Ageler/-job4j_design/tree/master/src/main/java/Job4j/it/sqltasks)
      * [*JDBC*](https://github.com/Ageler/-job4j_design/tree/master/src/main/java/Job4j/it/JDBC)
-     * [*JSON*](https://github.com/Ageler/-job4j_design/tree/master/src/main/java/Job4j/it/JSONParser)
  4. <b>*Garbage Collector*</b>
      * [*GC, Types Of Collectors, Size of object*](https://github.com/Ageler/-job4j_design/blob/master/src/main/java/Job4j/it/GC)
  5. <b>*Object Oriented Design*</b>
